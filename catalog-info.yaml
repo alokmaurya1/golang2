@@ -6,6 +6,7 @@ metadata:
   annotations: 
     github.com/project-slug: alokmaurya1/golang2
     backstage.io/github-actions-id: alokmaurya1/golang2
+    backstage.io/techdocs-ref: alokmaurya1/golang2-docs
 spec:
   type: service
   lifecycle: experimental
