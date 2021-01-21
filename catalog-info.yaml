@@ -11,3 +11,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: alokmaurya1
+  providesApis: wayback-search
