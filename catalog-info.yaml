@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: golang2
-  description: golang2 description
+  description: golang2 description 1
   annotations: 
     github.com/project-slug: alokmaurya1/golang2
     backstage.io/github-actions-id: alokmaurya1/golang2
